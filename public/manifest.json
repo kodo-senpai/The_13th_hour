@@ -1,0 +1,12 @@
+{
+  "background_color": "#ffffff",
+  "dir": "auto",
+  "display": "standalone",
+  "name": "the-13th-hour.onrender",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "the-13th-hour.onrender",
+  "start_url": "/https://the-13th-hour.onrender.com/",
+  "theme_color": "#ffffff",
+  "id": "the-13th-hour.onrender"
+}
